@@ -3,7 +3,7 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a Mechanical Engineer and technology entrepreneur with a strong foundation in research, product development, and full stack software engineering. As the founder and Lead Engineer at Project Antarikshya, I oversee a diverse range of projects that bridge the gap between engineering and IT solutions. My experience spans across aerospace research, including hybrid rocket engines and multi-element airfoil studies, as well as sustainable technologies like biochar production systems. I leverage my skills in CAD, simulation tools, and technical writing to develop innovative solutions for complex engineering challenges.`;
+export const HERO_CONTENT = `I am a motivated and passionate Mechanical Engineer with hands-on experience in fluid mechanics, propulsion systems, and sustainable energy solutions. I have worked on diverse projects ranging from rocket design to clean energy technologies. Currently, I lead innovative engineering solutions at Project Antarikshya.`;
 
 export const ABOUT_TEXT = `I am Sunil Belbase, a Mechanical Engineer passionate about design, innovation, and sustainable energy solutions. I hold a Bachelor of Engineering in Mechanical Engineering from Kathmandu University, with extensive experience in propulsion systems, fluid mechanics, and structural analysis. I have worked on diverse projects, including the design and testing of hybrid rocket engines, aerodynamic analysis of multi-element airfoils, and biochar production using portable biokilns.
 
