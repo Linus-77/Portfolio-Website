@@ -11,7 +11,10 @@ const Navbar = () => {
         <img src={logo} alt="logo" className= "mx- w-15 h-12" />
     </div>
     <div className="m-8 flex items-center justify-centre gap-4 text-2xl"> 
-        <FaGithub/>
+       <a href="https://github.com/Linus-77" target="_blank" rel="noopener noreferrer">
+          <FaGithub />
+        </a>
+        
         <FaInstagram/>
         <FaSquareXTwitter/>
         <FaLinkedin/>
