@@ -10,7 +10,7 @@ const Navbar = () => {
     <div className="flex-shrink-0 items-center">
         <img src={logo} alt="logo" className= "mx- w-15 h-12" />
     </div>
-    <div className="m-8 flex items-center justify-centre gap-4 text-2xl"> 
+    <div className="m-8 flex items-center justify-centre gap-4 text-2xl"> a
        <a href="https://github.com/Linus-77" target="_blank" rel="noopener noreferrer">
           <FaGithub />
         </a>
