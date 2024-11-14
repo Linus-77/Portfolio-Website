@@ -13,7 +13,7 @@ const Navbar = () => {
     <div className="m-8 flex items-center justify-centre gap-4 text-2xl"> a
        <a href="https://github.com/Linus-77" target="_blank" rel="noopener noreferrer">
           <FaGithub />
-        </a>
+      </a>
         
         <FaInstagram/>
         <FaSquareXTwitter/>
