@@ -75,5 +75,5 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "Kathmandu, Nepal ",
   phoneNo: "+977 9843807770",
-  email: "sunilbelbase3@gmail.com",
+  email: "sunilbelbase2058@gmail.com",
 };
